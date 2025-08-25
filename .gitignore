@@ -17,16 +17,12 @@ venv/
 ENV/
 env/
 
-# Data files
-*.csv
-*.tsv
-*.xlsx
+
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Requirements
-requirements.txt
+
 
 #
